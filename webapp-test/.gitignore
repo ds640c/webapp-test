@@ -54,3 +54,4 @@ local.properties
 /.classpath
 /.project
 /target/
+/.settings
