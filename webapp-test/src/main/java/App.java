@@ -22,6 +22,7 @@ public class App {
         	names.add("James");
         	names.add("Mary");
         	names.add("Beatrix");
+        	names.add("Billy");
         	 
         	Random rand = new Random(); 
         	int  i = rand.nextInt(4);
